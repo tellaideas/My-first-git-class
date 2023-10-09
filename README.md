@@ -1,2 +1,2 @@
-# My-first-git-class
+# My-first-git-class at SQI
 My first training git
